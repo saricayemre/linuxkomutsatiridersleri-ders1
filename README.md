@@ -2,4 +2,4 @@
 
 # Giriş
 
-            [< Önceki Sayfa](https://saricayemre.github.io/linuxkomutsatiridersleri/) | [Sonraki Sayfa >](https://saricayemre.github.io/linuxkomutsatiridersleri-ders2/)
+[< Önceki Sayfa](https://saricayemre.github.io/linuxkomutsatiridersleri/) | [Sonraki Sayfa >](https://saricayemre.github.io/linuxkomutsatiridersleri-ders2/)
