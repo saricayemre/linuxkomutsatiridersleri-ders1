@@ -1,3 +1,3 @@
-## Ders 1 |Yardım Alma Komutları
+## Ders 1 | Yardım Alma Komutları
 
 # Giriş
