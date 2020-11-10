@@ -34,8 +34,8 @@ Yardım almak için kullanılan başka bir komut ise `apropos` komutudur. Aslın
 
 Komut çıktısını incelediğimizde, `printf` ifadesinin geçtiği uygulamaların listesini de görmüş oluyoruz. 
 
-## Sonuç
+## Ders Sonu
 
 Bu komutlar genellikle bir program veya komutu kullanmadan önce hata yapmamak veya nasıl kullanıldığına dair net bilgiye kolayca ulaşabilmek için kullanılır. Her Linux kullanıcısı bu işe başlamadan önce bu komutların tozunu yutmuştur. Bir süre sonra bu komutlar unutulmaya yüz tutuyor ama başımız her sıkıştığında başvurabiliriz. Ayrıca bizi hiç terslemeyecektir. 
 
-[< Önceki Sayfa](https://saricayemre.github.io/linuxkomutsatiridersleri/) | [Sonraki Sayfa >](https://saricayemre.github.io/linuxkomutsatiridersleri-ders2/)
+[< Önceki Sayfa](https://saricayemre.github.io/linuxkomutsatiridersleri/) | [Sonraki Ders >](https://saricayemre.github.io/linuxkomutsatiridersleri-ders2/)
