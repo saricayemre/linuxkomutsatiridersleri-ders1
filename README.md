@@ -6,11 +6,11 @@ Linux işletim sistemlerinin komut satırında diğer komutların icrası ile il
 
 ## help
 
-Linux komut satırında bir komut veya bir programın nasıl kullanılacağı hakkında bilgi almak için `help` komutunu kullanabiliriz. Bu komutun kullanım kalıbı; `<komut_adı> --help` şu şekildedir. Örneğin; daha sonra değinilecek olan `ls` komutu hakkında yardım alamak için komut satırına, `ls --help` komutu girildiğinde terminalde aşağıdaki gösrelde görüldüğü gibi bir bilgi ekranı gelecektir. 
+Linux komut satırında bir komut veya bir programın nasıl kullanılacağı hakkında bilgi almak için `help` komutunu kullanabiliriz. Bu komutun kullanım kalıbı; `<komut_adı> --help` şu şekildedir. Örneğin; daha sonra değinilecek olan `ls` komutu hakkında yardım alamak için komut satırına, `ls --help` komutu girildiğinde terminalde aşağıdaki gösrelde görüldüğü gibi bir bilgi ekranı gelecektir. Resimde görüldüğü gibi _Usage_ kısmında komutun kullanımı hakkında kısa bir bilgi vermektedir. Hemen altında ise komutu parametreler ile birlikte kullandığımızda sonucunun ne olacağını açıklamıştır. 
 
 ![help-img1](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/help-img1.png?raw=true)
 
-`help` komutu ile bu şekilde yardım alınabilgiği gibi `help <komut_adı>` şeklinde de kullanımı mevcuttur.
+`help` komutu ile bu şekilde yardım alınabilgiği gibi `help <komut_adı>` şeklinde de kullanımı mevcuttur. Burada da benzer şekilde komutun parametreleri ile birlikte kullanımını ve detaylı bir açıklaması belirtilmiştir. 
 
  ![help-img2](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/help-img2.png?raw=true)
 
