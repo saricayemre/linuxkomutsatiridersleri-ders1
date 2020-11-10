@@ -1,0 +1,1 @@
+# linuxkomutsatiridersleri-ders1
