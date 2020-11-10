@@ -8,27 +8,27 @@ Linux işletim sistemlerinin komut satırında diğer komutların icrası ile il
 
 Linux komut satırında bir komut veya bir programın nasıl kullanılacağı hakkında bilgi almak için `help` komutunu kullanabiliriz. Bu komutun kullanım kalıbı; `<komut_adı> --help` şu şekildedir. Örneğin; daha sonra değinilecek olan `ls` komutu hakkında yardım alamak için komut satırına, `ls --help` komutu girildiğinde terminalde aşağıdaki gösrelde görüldüğü gibi bir bilgi ekranı gelecektir. 
 
-![help-img1](src)
+![help-img1](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/help-img1.png)
 
 `help` komutu ile bu şekilde yardım alınabilgiği gibi `help <komut_adı>` şeklinde de kullanımı mevcuttur.
 
- ![help-img2](src)
+ ![help-img2](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/help-img2.png)
 
 Fakat her komut kullanımı için bu uygun olmayabilir. Örneğin `ls --help` şeklinde kullandığımızda işe yaradı fakat tersi şeklinde kullanıldığında işe yaramadığı görülüyor.
 
- ![help-img3](src)
+ ![help-img3](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/help-img3.png)
 
 ## whatis
 
 Terminalde kullanıcıya yardımcı olan diğer komutlardan biride `whatis` komutudur. Bu komutu kullandığımızda bize komutun hangi kılavuz sayfasında olduğunu ve ne işe yaradığını gösterecektir. 
 
- ![whatis-img1](src)
+ ![whatis-img1](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/whatis-img1.png)
 
 ## apropos
 
 Yardım almak için kullanılan başka bir komut ise `apropos` komutudur. Aslında bu komut arka planda `man -k` komutunu çalıştırır. 
 
- ![apropos-img1](src)
+ ![apropos-img1](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/apropos-img1.png)
 
 Komut çıktısını incelediğimizde, `printf` ifadesinin geçtiği uygulamaların listesini de görmüş oluyoruz. 
 
