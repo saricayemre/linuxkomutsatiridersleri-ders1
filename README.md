@@ -28,7 +28,7 @@ Terminalde kullanıcıya yardımcı olan diğer komutlardan biride `whatis` komu
 
 Yardım almak için kullanılan başka bir komut ise `apropos` komutudur. Aslında bu komut arka planda `man -k` komutunu çalıştırır. 
 
- ![apropos-img1](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/apropos-img1.png)
+ ![apropos-img1](https://github.com/saricayemre/linuxkomutsatiridersleri-ders1/blob/main/resim/apropos-img1.png?raw=true)
 
 Komut çıktısını incelediğimizde, `printf` ifadesinin geçtiği uygulamaların listesini de görmüş oluyoruz. 
 
